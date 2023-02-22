@@ -504,6 +504,7 @@
     <!--Just replace "world" by "fr", "de"… translate the end of the url -->
     <string name="ecoscore_url">https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products</string>
     <!--Just replace "world" by "fr", "de"… translate the "nutrition-traffic-lights" with the hyphens -->
+    <string name="food_manufacturer_platform_promo_url">https://world.pro.openfoodfacts.org/</string>
     <string name="url_nutrient_values">https://world.openfoodfacts.org/nutrition-traffic-lights</string>
     <string name="preference_header_general">General</string>
     <string name="preference_header_about" translatable="false">@string/action_about</string>
@@ -738,6 +739,7 @@
     <string name="add_labels_prompt_text" comment="Do not translate Eco-Score">The Eco-Score takes into account environmental labels. Please take them into photo or edit the product so that they can be taken into account</string>
     <string name="add_origins_prompt_text" comment="Do not translate Eco-Score">The Eco-Score takes into account the origins of the ingredients. Please take them into photo (ingredient list and/or any geographic claim) or edit the product so that they can be taken into account</string>
     <string name="category_game_btn">Help categorize products to compute the Nutri-Score</string>
+    <string name="settings_promo_text">Are you a food producer or distributor ? \n Get your data easily on Open Food Facts using the free producer platform. Get automatic suggestions to improve the Nutri-Score of your products.</string>
     <string name="version_string">Open Food Facts Android app</string>
     <string name="set_ingredient_img">Set image as Ingredient</string>
     <string name="set_img_nutrients">Set Image as Nutrition</string>

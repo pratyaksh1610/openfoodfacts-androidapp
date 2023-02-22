@@ -2,6 +2,12 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
+    <Preference android:layout="@layout/food_manufacturer_platform_promo_settings">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="@string/food_manufacturer_platform_promo_url" />
+    </Preference>
+
     <PreferenceCategory
         android:summary=""
         android:title="@string/preference_header_general">
